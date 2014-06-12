@@ -1,6 +1,6 @@
 {
 	"run_list": [
-		"nginx"
+		"test"
 	],
 
 	"automatic": {

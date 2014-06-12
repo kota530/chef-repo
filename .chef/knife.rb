@@ -7,3 +7,4 @@ data_bag_path    "data_bags"
 
 knife[:berkshelf_path] = "cookbooks"
 knife[:solo_path] = "/tmp/chef-solo"
+ssl_verify_mode           :verify_peer
